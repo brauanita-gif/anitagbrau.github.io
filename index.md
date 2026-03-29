@@ -1,12 +1,12 @@
-# Portfolio QA – Anita
+# Portfolio Copy – Anita
 
-Manual QA / Functional testing (web)
+CTA & Microcopy
 
-## Bug reports
-- [Bug Report 01](bug-reports/bug-report-01.md)
+## CTA
+- 
 
-## Test cases
-- [Test Case 01](test-cases/test-case-01.md)
+## Microcopy
+-
 
 ## Contatti
 - LinkedIn: https://www.linkedin.com/in/anitabrau
